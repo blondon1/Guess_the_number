@@ -1,6 +1,6 @@
 # Pre-work - *Guess my number game*
 
-**Guess my number** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Guess my number** is a Light & Sound game to apply for CodePath's SITE Program. 
 
 Submitted by: **NAME**
 
